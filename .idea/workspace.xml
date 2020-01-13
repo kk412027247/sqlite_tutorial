@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="352ed722-c221-42fb-a7a4-01028ac2e81a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <exe-path>$USER_HOME$/AppData/Roaming/npm/bower.cmd</exe-path>
+    <config-path>D:/nodejs/bower/package.json</config-path>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1WLhSkPMu2oAzZ9CXQMBh6mzBOj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="6.11.2" />
+    <property name="last_opened_file_path" value="D:/nodejs/bower/package.json" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="node.js.selected.package.tslint" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunManager">
+    <configuration name="sqlite_tutorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sqlite_tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sqlite_tutorial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.sqlite_tutorial" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:test" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="352ed722-c221-42fb-a7a4-01028ac2e81a" name="Default Changelist" comment="" />
+      <created>1578934783119</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578934783119</updated>
+      <workItem from="1578934788194" duration="1644000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1264" y="251" width="800" height="677" key="#HTTP_Proxy" timestamp="1578936274626">
+      <screen x="67" y="27" width="2493" height="1053" />
+    </state>
+    <state x="1264" y="251" width="800" height="677" key="#HTTP_Proxy/67.27.2493.1053@67.27.2493.1053" timestamp="1578936274626" />
+    <state x="1274" y="215" width="800" height="677" key="#SQL_Dialects" timestamp="1578935427144">
+      <screen x="67" y="27" width="2493" height="1053" />
+    </state>
+    <state x="1274" y="215" width="800" height="677" key="#SQL_Dialects/67.27.2493.1053@67.27.2493.1053" timestamp="1578935427144" />
+    <state x="1274" y="215" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578936485375">
+      <screen x="67" y="27" width="2493" height="1053" />
+    </state>
+    <state x="1274" y="215" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.2493.1053@67.27.2493.1053" timestamp="1578936485375" />
+    <state x="1457" y="311" width="424" height="484" key="FileChooserDialogImpl" timestamp="1578936412893">
+      <screen x="67" y="27" width="2493" height="1053" />
+    </state>
+    <state x="1457" y="311" width="424" height="484" key="FileChooserDialogImpl/67.27.2493.1053@67.27.2493.1053" timestamp="1578936412893" />
+    <state width="1741" height="302" key="GridCell.Tab.0.bottom" timestamp="1578936492595">
+      <screen x="67" y="27" width="2493" height="1053" />
+    </state>
+    <state width="1741" height="302" key="GridCell.Tab.0.bottom/67.27.2493.1053@67.27.2493.1053" timestamp="1578936492595" />
+    <state width="1741" height="302" key="GridCell.Tab.0.center" timestamp="1578936492595">
+      <screen x="67" y="27" width="2493" height="1053" />
+    </state>
+    <state width="1741" height="302" key="GridCell.Tab.0.center/67.27.2493.1053@67.27.2493.1053" timestamp="1578936492595" />
+    <state width="1741" height="302" key="GridCell.Tab.0.left" timestamp="1578936492594">
+      <screen x="67" y="27" width="2493" height="1053" />
+    </state>
+    <state width="1741" height="302" key="GridCell.Tab.0.left/67.27.2493.1053@67.27.2493.1053" timestamp="1578936492594" />
+    <state width="1741" height="302" key="GridCell.Tab.0.right" timestamp="1578936492595">
+      <screen x="67" y="27" width="2493" height="1053" />
+    </state>
+    <state width="1741" height="302" key="GridCell.Tab.0.right/67.27.2493.1053@67.27.2493.1053" timestamp="1578936492595" />
+    <state width="263" height="500" key="HiddenNamespacesPopup" timestamp="1578936437951">
+      <screen x="67" y="27" width="2493" height="1053" />
+    </state>
+    <state width="263" height="500" key="HiddenNamespacesPopup/67.27.2493.1053@67.27.2493.1053" timestamp="1578936437951" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/sqlite_tutorial$sqlite_tutorial.coverage" NAME="sqlite_tutorial Coverage Results" MODIFIED="1578936003798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
